@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatsp17&label=Profile%20views&color=0e75b6&style=flat" alt="venkatsp17" /> </p>
 
-- 🔭 I’m currently working on **Dental App**
+- 🔭 I’m currently working on **Presidio**
 
 - 🌱 I’m currently learning **React, Mongo DB, Express JS**
 
